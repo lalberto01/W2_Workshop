@@ -7,3 +7,8 @@ Customers- Customer ID, First name, Last name, Phone number, Email, Address
 Dogs- Dog ID, customer ID, dog name, dog breed, weight, age
 Walks- Walk ID, Data, Time, Duration, Dog ID
 Payments- Payment ID, Customer ID, Payment data, amount, apointment ID 
+#Logical Model
+A, Customers, Dogs, Walks, Payment
+B, ID'S
+C, Customer to dog One to many, customers to payment one to many, dogs to walks many to many 
+D, dogs to walks many to many
