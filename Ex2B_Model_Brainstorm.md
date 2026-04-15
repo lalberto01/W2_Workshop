@@ -1,2 +1,2 @@
 # Requirements and Conceptual Model
-Tihitina Zergaw, and Lesley Alberto
+Tihitina Zergaw, Lesley Alberto, and Saliem Araya. 
