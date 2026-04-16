@@ -1,5 +1,5 @@
 # Requirements and Conceptual Model
-Tihitina Zergaw, Lesley Alberto, and Saliem Araya. 
+Tihitina Zergaw, Lesley Alberto, Saliem Araya, and Danait Berhane. 
 Gathering requirements End user- Lana
 what will the end user need to be able to do? Registering customers, record payments, managing appointments, registering dogs, 
 Catagories- Customers, Dogs, Walks, Payment 
